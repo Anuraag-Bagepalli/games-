@@ -1,0 +1,45 @@
+    body {
+        font-family: sans-serif;
+        text-align: center;
+        background-color: black;
+        color: white;
+        background-image: url('bg1.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .scoreboard, .choices, .results {
+        display: flex;
+        justify-content: space-between;
+        margin: 20px 0;
+    }
+
+    button {
+        padding: 10px 20px;
+        margin: 0 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+    .choices img {
+        width: 100px; 
+        height: 100px;
+    }
+    #rock, #paper, #scissors {
+        background-color: #000000;
+        color: rgb(0, 0, 0);
+    }
+
+    #play-again {
+        background-color: #3f51b5;
+        color: white;
+    }
+
+    .results img {
+        width: 100px;
+        height: 100px;
+    }
+
+    #play-again {
+        display: none;
+    }

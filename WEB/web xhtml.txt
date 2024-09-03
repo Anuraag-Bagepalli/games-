@@ -1,0 +1,41 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<style>
+body{
+background-image: url("C:\Users\anura\OneDrive\Desktop\JIT\WEB\bg1.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+color: white;
+}
+</style>
+</head>
+<body>
+<p>Background Image atributes</p>
+<ul>
+<li>url:background image.jpg</li>
+<li>Repeat: No repeat</li>
+<li>size: cover</li>
+</ul>
+<p><strong><em>All that glitters is not gold</em></strong></p>
+<p>Equation : x = 1/3(y<sup>2</sup>+z<sup>2</sup></p>
+<h2>Lists</h2>
+<h3> Unordered List</h3>
+<ul>
+<li> Apple</li>
+<li> Mango</li>
+<li> Banana</li>
+<li> Papaya</li>
+<li> Pomogranate</li>
+</ul>
+<h3>Ordered List</h3>
+<ol>
+<li> Jasmine</li>
+<li> Rose</li>
+<li> Mallige</li>
+</ol>
+</body>
+</html>
+
